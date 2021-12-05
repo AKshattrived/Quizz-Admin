@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+A drawable to design background of
+    category_item.xml layout
+    activity_questions.xml question text view
+    bookmark_item.xml layout
+    question_item.xml layout
+-->
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F3F3F3"/>
+    <corners android:radius="15dp"/>
+</shape>
